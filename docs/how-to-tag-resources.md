@@ -3,7 +3,7 @@
 To add custom tags to any resource created by the Azure service broker, add a "tags" element to the JSON object containing configuration parameters with your provision request.  
 Parameters are passed in a valid JSON object containing configuration parameters, provided either in-line or in a file.
 
-  See the service specific [supported configuration parameters](../README.MD#the-provided-services) 
+  See the service specific [supported configuration parameters](../README.md#the-provided-services) 
 
   ```
   {
